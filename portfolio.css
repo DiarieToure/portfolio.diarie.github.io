@@ -1,0 +1,322 @@
+
+
+ main .home
+ {
+     background-color:  #595959;
+ }
+
+ main .title_home
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 39px;
+    line-height: 53px;
+    margin-bottom: 20px;
+    color: #fff;
+    margin-bottom: 30px;
+}
+main .title_home span
+{
+
+    color: #F28686;
+}
+.text_home h4
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 34px;
+
+    color: #FFFFFF;
+} 
+.text_home h3
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 35px;
+    line-height: 48px;
+
+    color: #F28686;
+
+}
+.text_home h3 span 
+{
+    color: #FFFFFF;
+}
+
+/*mes boutons*/
+.my_buttons .contact_btn button
+{
+    border: 6px solid #F28686;
+    box-sizing: border-box;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 49px;
+    width: 253.05px;
+    height: 56.96px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 33px;
+    margin-top: 60px;
+    color: #F28686;
+}
+.my_buttons .download_btn button
+{
+    width: 253.05px;
+    height: 56.96px;
+    background: #F28686;
+    box-shadow: 0px 4px 4px rgba(73, 73, 73, 0.25);
+    border-radius: 49px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 34px;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-color: #F28686;
+
+}
+
+/*----------------------------end mes boutons*/
+
+
+/*========================================================PROFIL Page =============*/
+
+
+/*Header mobile*/
+header
+{
+    margin-top: 25px;
+
+}
+header .text_header
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 39px;
+    line-height: 53px;
+    margin-bottom: 20px;
+    color: #000000;
+}
+header .text_header span
+{
+
+    color: #F28686;
+}
+
+
+header .container
+{
+    height:80px;
+}
+nav
+{
+    background-color:#595959;
+
+}
+header .navbar .container-fluid
+{
+    height: 50px;
+    margin-top:-6px;
+}
+
+header .navbar .container-fluid img
+{
+    margin-top: -45px;
+}
+
+/*collaps button*/
+
+ .navbar button i
+{
+    color: #f28686;
+ 
+}
+button
+{
+    width: 90px;
+    height: 90px;
+    margin: 0em;
+}
+.navbar-toggler 
+{
+    font-size:4em;
+    margin-top:-35px;
+}
+
+.text_collapsed h5
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #595959;
+
+}
+.text_collapsed h6
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #f28686;
+
+}
+.text_collapsed ul
+{
+    list-style: none;
+    padding-top: 25px;
+    justify-content: center;
+}
+
+.text_collapsed ul li
+{
+    padding-top: 23px;
+    
+}
+
+.text_collapsed ul li a
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000;
+    text-decoration: none;
+}
+.text_collapsed ul li a:hover
+{
+    color: #f28686;
+    font-size: 24px;
+}
+
+
+
+/* --------------------------------end Header mobile*/
+
+
+
+/*Footer*/
+
+ footer .foot
+{
+    background-image: url(images/footer_banner.png);
+    width:100%;
+    height:80px;
+} 
+
+/* --------------------------------end footer mobile*/
+
+
+/*ABOUT ME */
+.about_me h2 
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 34px;
+    color: #F28686;
+    margin-bottom:35px;
+    border-bottom: 1px solid #000000;
+}
+.about
+{
+    width: 40%;
+
+}
+
+.about_me h2 span
+{
+    font-family: Nunito Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 34px;
+
+color: #000000;
+}
+
+.infos ul.info li
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    list-style: none;
+    color: #000000;
+    
+}
+.infos ul.answer li
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #595959;
+    margin-left: 20%;
+    list-style: none;
+}
+
+.text_who_i_am p
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+    width: 264.66px;
+    height: 400px;
+    
+}
+.text_who_i_am p .quotes
+{
+    margin-left: -15%;
+}
+.text_who_i_am p .quotes_r
+{
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+
+/*-------Slide stage*/
+ .item
+{
+    width: 161px;
+    height: 133px;
+    margin-left: 30% ;
+} 
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #f28686;
+
+}
+
+.owl-theme .owl-dots .owl-dot span 
+{
+    border: #f28686 solid 2px;
+    background: #fff;
+}
+.owl-carousel
+{
+    max-width:750px;
+}
+.block_carousel button
+{
+    width: 30px;
+}
+/* .block_carousel
+{
+    margin-left: 30%;
+} */
+
+/*======================================================== END PROFIL Page =============*/
