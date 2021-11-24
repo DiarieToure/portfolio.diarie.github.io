@@ -225,7 +225,7 @@ button
 
 
 /*ABOUT ME */
-.about_me h2 , .my_career h2
+.about_me h2 , .my_career h2, .my_skills h2
 {
     font-family: Nunito Sans;
     font-style: normal;
@@ -236,13 +236,13 @@ button
     margin-bottom:35px;
     border-bottom: 1px solid #000000;
 }
-.about,.career
+.about,.career, .skills
 {
     width: 40%;
 
 }
 
-.about_me h2 span , .my_career h2 span
+.about_me h2 span , .my_career h2 span , .my_skills h2 span
 {
     font-family: Nunito Sans;
 font-style: normal;
@@ -360,3 +360,38 @@ section.parcours .parcours_formation h3,section.parcours .parcours_entreprise h3
     background: #F28686;
     
 }
+
+/*======================================================== End parcours Page =============*/
+
+
+/*============================ Start skills Page =============*/
+
+.skil h3
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #000000;
+
+}
+.skil .progress
+{
+   height: 15px;
+
+}
+.skil .progress .progress-bar 
+{
+   background-color: #F28686;
+}
+.skil a
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    color: #000000;
+    margin-top: -6px;
+}
+
