@@ -93,6 +93,8 @@ main .title_home span
 header
 {
     margin-top: 25px;
+    position: sticky;
+    z-index: 2000;
 
 }
 header .text_header
@@ -133,6 +135,12 @@ header .navbar .container-fluid img
 }
 
 /*collaps button*/
+
+header div.collapse
+{
+    background-color:#fff;
+    z-index: 500;
+}
 
  .navbar button i
 {
@@ -217,7 +225,7 @@ button
 
 
 /*ABOUT ME */
-.about_me h2 
+.about_me h2 , .my_career h2
 {
     font-family: Nunito Sans;
     font-style: normal;
@@ -228,13 +236,13 @@ button
     margin-bottom:35px;
     border-bottom: 1px solid #000000;
 }
-.about
+.about,.career
 {
     width: 40%;
 
 }
 
-.about_me h2 span
+.about_me h2 span , .my_career h2 span
 {
     font-family: Nunito Sans;
 font-style: normal;
@@ -320,3 +328,35 @@ color: #000000;
 } */
 
 /*======================================================== END PROFIL Page =============*/
+
+
+/*======================================================== START parcours Page =============*/
+section.parcours 
+{
+    margin: 10%;
+}
+section.parcours .parcours_formation h3,section.parcours .parcours_entreprise h3
+
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+}
+.desc_formation .forme_vertical div.circle ,.desc_entreprise .forme_vertical div.circle 
+{
+    width: 90px;
+    height: 35px;
+    background: #F28686;
+    border:solid 1px #f28686;
+    border-radius: 150%;
+}
+.forme_vertical .bar_vertic
+{
+    width: 5px;
+    height: 139px;
+    background: #F28686;
+    
+}
