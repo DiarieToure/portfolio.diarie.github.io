@@ -225,7 +225,7 @@ button
 
 
 /*ABOUT ME */
-.about_me h2 , .my_career h2, .my_skills h2
+.about_me h2 , .my_career h2, .my_skills h2, .my_quality h2
 {
     font-family: Nunito Sans;
     font-style: normal;
@@ -236,13 +236,13 @@ button
     margin-bottom:35px;
     border-bottom: 1px solid #000000;
 }
-.about,.career, .skills
+.about,.career, .skills ,.quality
 {
     width: 40%;
 
 }
 
-.about_me h2 span , .my_career h2 span , .my_skills h2 span
+.about_me h2 span , .my_career h2 span , .my_skills h2 span ,.my_quality h2 span
 {
     font-family: Nunito Sans;
 font-style: normal;
@@ -395,3 +395,30 @@ section.parcours .parcours_formation h3,section.parcours .parcours_entreprise h3
     margin-top: -6px;
 }
 
+/*============================ END skills Page =============*/
+
+
+/*============================ Start qualities Page =============*/
+
+.block_quality p
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 27px;
+    color: #595959;
+    width: 199px;
+
+
+}
+.block_quality h3
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+
+    color: #000000;
+}
