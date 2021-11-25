@@ -92,94 +92,33 @@
            
         </header>
 
-        <section class="qualities mt-5">
+        <section class="references mt-5">
 
             <div class="my_quality ">
                 <div class="quality w-100 d-flex justify-content-center">
-                    <h2 class="text-center mt-3">Mes Qualites <span>Personnelles</span></h2>
+                    <h2 class="text-center mt-3">Mes  <span>References</span></h2>
                 </div>
 
-                <div class="">
 
-                    <div class="col-lg-2 col-md-2"></div>
-                    <div class="col-lg-8 col-md-8 col-sm-12 d-flex wrap justify-content-center" style="flex-wrap: wrap;">
-                        <div class="block_quality col-lg-6 col-md-6 col-sm-12 d-flex justify-content-center">
-
-                            <div class="circle_quality ms-5 "><img src="images/validated.png" alt="qualites" width="50" height="50" ></div>
-    
-                            <div class="text_quality ms-5 d-block" >
-                                <div>
-                                    <h3>Rigoureuse</h3>
-                                </div>
-    
-                                <div>
-                                    <p class="">You are enabled to easily roll . Bring the old days back to life </p>
-                                </div>
-                            </div>
-    
-                        </div>
-
-                        <div class="block_quality col-lg-6 col-md-6 col-sm-12 d-flex justify-content-center">
-
-                            <div class="circle_quality ms-5 "><img src="images/validated.png" alt="qualites" width="50" height="50" ></div>
-    
-                            <div class="text_quality ms-5 d-block" >
-                                <div>
-                                    <h3>Rigoureuse</h3>
-                                </div>
-    
-                                <div>
-                                    <p class="">You are enabled to easily roll . Bring the old days back to life </p>
-                                </div>
-                            </div>
-    
-                        </div>
-
-                        <div class="block_quality col-lg-6 col-md-6 col-sm-12 d-flex justify-content-center">
-
-                            <div class="circle_quality ms-5 "><img src="images/validated.png" alt="qualites" width="50" height="50" ></div>
-    
-                            <div class="text_quality ms-5 d-block" >
-                                <div>
-                                    <h3>Rigoureuse</h3>
-                                </div>
-    
-                                <div>
-                                    <p class="">You are enabled to easily 
-                                        roll . Bring the old days back to life </p>
-                                </div>
-                            </div>
-    
-                        </div>
-
-                        <div class="block_quality col-lg-6 col-md-6 col-sm-12 d-flex justify-content-center">
-
-                            <div class="circle_quality ms-5 "><img src="images/validated.png" alt="qualites" width="50" height="50" ></div>
-    
-                            <div class="text_quality ms-5 d-block" >
-                                <div>
-                                    <h3>Rigoureuse</h3>
-                                </div>
-    
-                                <div>
-                                    <p class="">You are enabled to easily roll . Bring the old days back to life </p>
-                                </div>
-                            </div>
-    
+                <div class="card_references d-flex justify-content-center">
+                    <div class="card" style="width: 314px;">
+                        <div class="card-body ">
+                            <img src="images/homme.png" alt="samba kane">
+                          <h5 class="card-title text-center">Samba Kane</h5>
+                          <h6 class="card-subtitle mb-2 text-white text-center">Directeur Entreprise 1</h6>
+                          <h5 class="card-title text-center">SambaKane@gmail.com</h5>
+                          <h6 class="card-subtitle mb-2 text-white text-center">+ 221 123 45 67</h6>
                         </div>
                     </div>
-
                 </div>
+
+
+
 
     
                 
             </div>
-            
 
-
-            
-    
-    
         </section>
 
 
