@@ -421,6 +421,7 @@ section.parcours .parcours_formation h3,section.parcours .parcours_entreprise h3
     line-height: 27px;
 
     color: #000000;
+<<<<<<< HEAD
 }
 
 /*============================ End qualities Page =============*/
@@ -498,4 +499,6 @@ section.parcours .parcours_formation h3,section.parcours .parcours_entreprise h3
     /* identical to box height */
      
     color: #F28686;
+=======
+>>>>>>> feature/skils
 }
