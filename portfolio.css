@@ -422,3 +422,52 @@ section.parcours .parcours_formation h3,section.parcours .parcours_entreprise h3
 
     color: #000000;
 }
+
+/*============================ End qualities Page =============*/
+
+
+/*============================ Start experience Page =============*/
+
+.card_experience
+{
+    margin-top:15px;
+    margin-bottom:50px;
+
+}
+.card_experience .card
+{
+    background:#F28686;
+    border-radius: 26px;
+    width: 314px;
+    height: 335px;
+}
+.card_experience h4
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: #000000;
+}
+.card_experience h5
+
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 34px;
+
+    color: #FFFFFF;
+}
+.card_experience p
+
+{
+    font-family: Nunito Sans;
+    font-style: normal;
+    font-size: 20px;
+    color: #000000;
+
+}
+
+/*============================ End experience Page =============*/
